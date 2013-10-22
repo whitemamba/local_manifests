@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_device_sony_huashan" path="device/sony/huashan" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_kernel_sony_msm8960t" path="kernel/sony/msm8960t" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_device_sony_yuga" path="device/sony/yuga" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_device_sony_qcom-common" path="device/sony/qcom-common" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_device_sony_fusion3-common" path="device/sony/fusion3-common" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_packages_apps_FMRadio" path="packages/apps/FmRadio" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_hardware_sony_DASH" path="hardware/sony/DASH" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_device_sony_pollux" path="device/sony/pollux" remote="github" revision="cm-10.2" />
+  <project name="TheMuppets/proprietary_vendor_sony.git" path="vendor/sony" remote="github" revision="cm-10.2" />
+  <project name="TheMuppets/proprietary_vendor_lge.git" path="vendor/lge" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_device_lge_mako" path="device/lge/mako" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/lge-kernel-mako" path="kernel/lge/mako" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_device_sony_mint" path="device/sony/mint" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_device_sony_blue-common" path="device/sony/blue-common" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_device_sony_tsubasa" path="device/sony/tsubasa" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_device_sony_odin" path="device/sony/odin" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_device_sony_pollux_windy" path="device/sony/pollux_windy" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_device_sony_pollux-common" path="device/sony/pollux-common" remote="github" revision="cm-10.2" />
+  <project name="BuzzBumbleBee/android_packages_apps_SonyOpenIR" path="packages/apps/SonyOpenIR" remote="github" revision="cm-10.1" />
+  <project name="CyanogenMod/android_device_sony_dogo" path="device/sony/dogo" remote="github" />
+</manifest> 
