@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remove-project name="platform/external/zlib" />
   <project name="CyanogenMod/android_device_sony_huashan" path="device/sony/huashan" remote="github" revision="cm-10.2" />
   <project name="CyanogenMod/android_kernel_sony_msm8960t" path="kernel/sony/msm8960t" remote="github" revision="cm-10.2" />
   <project name="CyanogenMod/android_device_sony_yuga" path="device/sony/yuga" remote="github" revision="cm-10.2" />
@@ -21,5 +22,5 @@
   <project name="CyanogenMod/android_device_sony_pollux_windy" path="device/sony/pollux_windy" remote="github" revision="cm-10.2" />
   <project name="CyanogenMod/android_device_sony_pollux-common" path="device/sony/pollux-common" remote="github" revision="cm-10.2" />
   <project name="BuzzBumbleBee/android_packages_apps_SonyOpenIR" path="packages/apps/SonyOpenIR" remote="github" revision="cm-10.1" />
-  <project name="CyanogenMod/android_device_sony_dogo" path="device/sony/dogo" remote="github" />
+  <project name="CyanogenMod/android_external_zlib" path="external/zlib" remote="github" revision="cm-10.1" />
 </manifest> 
